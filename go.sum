@@ -1,3 +1,11 @@
+github.com/rtorrero/ci-playground-beta v0.0.0-20220830091658-bdfde61a9ce3 h1:84JSqk8ihK36Ev634UrjsLxU2eKNnddQXkm2M5sLR/M=
+github.com/rtorrero/ci-playground-beta v0.0.0-20220830091658-bdfde61a9ce3/go.mod h1:vs8XksuUbDViSJzmVgBVwKqyUVHanEQRI5sEq26SoK8=
+github.com/rtorrero/ci-playground-beta v0.0.0-20220830110840-68f0efa5f251 h1:YaH7R86brHE5VMXvJI70hgNokmSR03BMVKtyCLoMdfw=
+github.com/rtorrero/ci-playground-beta v0.0.0-20220830110840-68f0efa5f251/go.mod h1:vs8XksuUbDViSJzmVgBVwKqyUVHanEQRI5sEq26SoK8=
+github.com/rtorrero/ci-playground-beta v0.0.2 h1:RIGMH+74JqYvg8FpCfRW87LU9K1oB399PASW65hZERI=
+github.com/rtorrero/ci-playground-beta v0.0.2/go.mod h1:vs8XksuUbDViSJzmVgBVwKqyUVHanEQRI5sEq26SoK8=
+github.com/rtorrero/ci-playground-beta v0.0.3 h1:wp2gITfuAfT0kuzeN2yk0hI1vfYXItE1/Cjd/3UFizQ=
+github.com/rtorrero/ci-playground-beta v0.0.3/go.mod h1:vs8XksuUbDViSJzmVgBVwKqyUVHanEQRI5sEq26SoK8=
 moul.io/banner v1.0.1 h1:+WsemGLhj2pOajw2eR5VYjLhOIqs0XhIRYchzTyMLk0=
 moul.io/banner v1.0.1/go.mod h1:XwvIGKkhKRKyN1vIdmR5oaKQLIkMhkMqrsHpS94QzAU=
 moul.io/motd v1.0.0 h1:Trk4fPibDfPJf2iCBSQC8ws7Q02sMwivQdVEFAjCPto=
